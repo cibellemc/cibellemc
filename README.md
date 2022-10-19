@@ -1,5 +1,10 @@
 ## Oiii! Eu sou a Cibelle Maciel, estudante de programação e tecnologia!
   
+ <div align="left">
+  <a href="https://github.com/cibellemc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibellemc&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Cibelle-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cibelle-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
